@@ -1,0 +1,13 @@
+names:
+- Bad Pear
+- Good Pear
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: deteksi-buah-pir
+  url: https://universe.roboflow.com/test-gswap/deteksi-buah-pir/dataset/5
+  version: 5
+  workspace: test-gswap
+test: ../test/images
+train: ../train/images
+val: ../valid/images
