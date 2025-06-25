@@ -3,7 +3,7 @@ import cv2
 print("OpenCV version:", cv2.__version__)
 print("cv2.imshow exists:", hasattr(cv2, "imshow"))
 
-model = YOLO("runs/train/exp/weights/last.pt")
+model = YOLO("runs/train/exp/weights/best.pt")
 cap = cv2.VideoCapture(0)
 
 if not cap.isOpened():
