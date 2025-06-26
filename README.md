@@ -9,3 +9,7 @@ Panduan:
 Model terbaik berada di path \runs\train\exp\weights\best.pt
 
 Dataset berada di path \Deteksi-Buah-Pir-6
+
+Anggota Kelompok:
+Gerardo Mayella Ardianta (235314003)
+Valentino Banyu Ampar Paraya (235314006)
