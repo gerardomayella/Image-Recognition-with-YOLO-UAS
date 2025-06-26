@@ -7,4 +7,5 @@ Panduan:
 3. test_yolo_camera digunakan untuk melakukan test menggunakan camera computer secara langsung
 
 Model terbaik berada di path \runs\train\exp\weights\best.pt
+
 Dataset berada di path \Deteksi-Buah-Pir-6
