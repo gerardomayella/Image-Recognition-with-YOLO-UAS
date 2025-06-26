@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8n.pt
-data: Deteksi-Buah-Pir-5/data.yaml
+data: Deteksi-Buah-Pir-6/data.yaml
 epochs: 50
 time: null
 patience: 100
